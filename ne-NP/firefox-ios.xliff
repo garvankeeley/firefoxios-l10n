@@ -776,6 +776,18 @@
         <target>अँध्यारो</target>
         <note>Dark theme setting in Reading View settings</note>
       </trans-unit>
+      <trans-unit id="Debug: ETP Cover Sheet On">
+        <source>Debug: ETP Cover Sheet On</source>
+        <note>Debug option to show ETP Cover Sheet</note>
+      </trans-unit>
+      <trans-unit id="Debug: Set onboarding type to v2">
+        <source>Debug: Set onboarding type to v2</source>
+        <note>Debug option</note>
+      </trans-unit>
+      <trans-unit id="Debug: Toggle onboarding type">
+        <source>Debug: Toggle onboarding type</source>
+        <note>Debug option</note>
+      </trans-unit>
       <trans-unit id="Debug: forget Sync auth state">
         <source>Debug: forget Sync auth state</source>
         <target>डिबग: आधिकारीक सिंक स्टेट भूल्ने</target>
@@ -3220,8 +3232,8 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
-        <source>$(MOZ_BUNDLE_DISPLAY_NAME)</source>
-        <target>$(MOZ_BUNDLE_DISPLAY_NAME)</target>
+        <source>$(MOZ_TODAY_WIDGET_SEARCH_DISPLAY_NAME)</source>
+        <target>$(MOZ_TODAY_WIDGET_SEARCH_DISPLAY_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
@@ -3244,13 +3256,11 @@
         <note>Go to link on clipboard</note>
       </trans-unit>
       <trans-unit id="TodayWidget.NewPrivateTabButtonLabel">
-        <source>New Private Tab</source>
-        <target>नयाँ निजी ट्याब</target>
+        <source>Private Search</source>
         <note>New Private Tab button label</note>
       </trans-unit>
       <trans-unit id="TodayWidget.NewTabButtonLabel">
-        <source>New Tab</source>
-        <target>नयाँ ट्याब</target>
+        <source>New Search</source>
         <note>New Tab button label</note>
       </trans-unit>
     </body>
